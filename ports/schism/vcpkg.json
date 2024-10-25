@@ -1,5 +1,5 @@
 {
-    "name": "schism",
-    "version-string": "0.0.1",
-    "description": "Game engine"
+  "name": "schism",
+  "version": "0.0.1",
+  "description": "Game engine"
 }
