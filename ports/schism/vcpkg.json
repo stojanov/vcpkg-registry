@@ -1,5 +1,25 @@
 {
   "name": "schism",
   "version": "0.0.1",
-  "description": "Game engine"
+  "description": "Game engine",
+  "dependencies": [
+    "asio",
+    "entt",
+    "glad",
+    "glfw3",
+    "glm",
+    {
+      "name": "imgui",
+      "features": [
+        "glfw-binding",
+        "opengl3-binding"
+      ]
+    },
+    "lua",
+    "openal-soft",
+    "parallel-hashmap",
+    "sol2",
+    "spdlog",
+    "stb"
+  ]
 }
