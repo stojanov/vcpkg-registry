@@ -4,6 +4,7 @@
   "dependencies": [
     "benchmark",
     "gtest",
-    "spdlog"
+    "spdlog",
+    "vcpkg-cmake"
   ]
 }
