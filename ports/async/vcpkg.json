@@ -5,6 +5,10 @@
     "benchmark",
     "gtest",
     "spdlog",
-    "vcpkg-cmake"
+    "vcpkg-cmake",
+    {
+      "name": "vcpkg-cmake-config",
+      "host": true
+    }
   ]
 }
